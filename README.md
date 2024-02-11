@@ -1,5 +1,4 @@
 Call Center Trends Dashboard - Microsoft PowerBI:
-Revolutionize your call center operations with our cutting-edge Call Center Trends Analysis Dashboard, meticulously crafted in Power BI. This dynamic and visually stunning tool empowers organizations to gain invaluable insights into their call center performance, enabling data-driven decision-making for enhanced customer service and operational efficiency.
 
 Problem Statement
  The call center manager at a company wants to get the insight from their call center data and wants to know the total number of calls answered and abandoned, speed of answer, length of calls, overall customer satisfaction, and most importantly, the manager is interested in knowing the accurate overview of long-term trends in customers and agent’s behavior. 
